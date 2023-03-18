@@ -1,4 +1,4 @@
-# 🦙🌲🤏 Self-Instruct
+# Self-Instruct: Aligning LM with Self Generated Instructions
 
 ## Overview 
 
@@ -70,8 +70,7 @@ pip install -r requirements.txt
 ## 실행 
 
 ```
-python generate_instruction.py --api_key your_openai_api_key
-
+python generate_instruction.py --api_key your_openai_api_key --model_name gpt-3.5-turbo-0301
 ```
 
 
