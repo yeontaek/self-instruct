@@ -1,4 +1,4 @@
-# Self-Instruct: Aligning LM with Self Generated Instructions
+# Self-Instruct by Stanford Alpaca
 
 ## Overview 
 
