@@ -1,0 +1,92 @@
+[
+    {
+        "instruction": "Pi is an irrational number, name two of its closest rational approximations.",
+        "input": "",
+        "output": "Two of the closest rational approximations for pi are 3.14 and 3.13.",
+        "most_similar_instructions": {
+            "Given the name of an exercise, explain how to do it.": 0.17391304347826086,
+            "Generate a title for the paper given a description or abstract of its content.": 0.15384615384615383,
+            "Write an example of unethical behavior at the workplace and explain why it is unethical.": 0.14814814814814814,
+            "Give me an example of a time when you had to use your sense of humor.": 0.14285714285714288,
+            "You are given a list of features of a product, and you need to create its description.": 0.13793103448275862,
+            "Select the longest sentence in terms of the number of words in the paragraph, output the sentence index.": 0.13333333333333333,
+            "Explain the ending of given movie.": 0.1111111111111111,
+            "Complete the paragraph given its prefix.": 0.1111111111111111,
+            "Detect if there is gender-biased and non-inclusive phrasing in the sentence. If there is, suggest an alternative. Otherwise, output \"No such bias detected.\"": 0.10810810810810811,
+            "Expand the following outline into an article.": 0.10526315789473685
+        },
+        "avg_similarity_score": 0.03341249003949048
+    },
+    {
+        "instruction": "What is the ending sound of the Korean word \"비\"?",
+        "input": "",
+        "output": "The ending sound of the Korean word 비 is \"피\".",
+        "most_similar_instructions": {
+            "Give me the definition of the word.": 0.5,
+            "Come up with the synonyms of the word.": 0.47058823529411764,
+            "What is the relation between the given pairs?": 0.47058823529411764,
+            "Explain the ending of given movie.": 0.4,
+            "Identify the pos tag of the word in the given sentence.": 0.39999999999999997,
+            "Explain the social stereotype of the following profession.": 0.35294117647058826,
+            "Classify the sentiment of the sentence into positive, negative or mixed.": 0.3,
+            "In your opinion, what are the qualities of an effective sports coach?": 0.28571428571428575,
+            "To make the pairs have the same analogy, write the fourth word.": 0.28571428571428575,
+            "Find out the largest one from a set of numbers. Output the number directly.": 0.2608695652173913
+        },
+        "avg_similarity_score": 0.12577319940188605
+    },
+    {
+        "instruction": "Write a summary analysis of the following article.",
+        "input": "In this article, we explore the impact of climate change on the oceans. The article discusses how increased temperatures and other environmental factors are impacting ocean life, resulting in a destabilized food web, changes in chemical and physical ocean conditions, and increased ocean acidification.",
+        "output": "The article examines how climate change is having a detrimental effect on oceans. As temperatures and other environmental factors rise, ocean life is being destabilized and the food web has been disrupted. Furthermore, ocean conditions have changed both chemically and physically, resulting in ocean acidification. These changes are having a profound impact on ocean life and the environment as a whole.",
+        "most_similar_instructions": {
+            "Generate a one-sentence description for each of the following people.": 0.4210526315789474,
+            "Generate a haiku using the following word:": 0.39999999999999997,
+            "Expand the following outline into an article.": 0.39999999999999997,
+            "Explain the social stereotype of the following profession.": 0.375,
+            "Suggest a completion for the following python code.": 0.375,
+            "Write a conversation based on the given facts.": 0.375,
+            "Write a cover letter based on the given facts.": 0.35294117647058826,
+            "Write a list of questions to start a conversation.": 0.35294117647058826,
+            "Write a sentence that ends with the word \"published\".": 0.35294117647058826,
+            "Write a recommendation letter given the student's achievement.": 0.35294117647058826
+        },
+        "avg_similarity_score": 0.1643503705961572
+    },
+    {
+        "instruction": "Rewrite the following sentence using a different verb.",
+        "input": "The cat ran swiftly.",
+        "output": "The cat sprinted quickly.",
+        "most_similar_instructions": {
+            "Rewrite the following sentence to be more professional.": 0.5,
+            "Rank the following universities.": 0.3333333333333333,
+            "Convert the following measurement.": 0.3333333333333333,
+            "Answer the following question.": 0.3333333333333333,
+            "Tell me if the following email is a promotion email.": 0.33333333333333326,
+            "Translate the English sentence into Chinese.": 0.28571428571428575,
+            "Classify whether the following email is a spam or not. Output true or false.": 0.2727272727272727,
+            "Generate a haiku using the following word:": 0.26666666666666666,
+            "Expand the following outline into an article.": 0.26666666666666666,
+            "Tell if the sentence contains toxic language.": 0.26666666666666666
+        },
+        "avg_similarity_score": 0.1293271069403222
+    },
+    {
+        "instruction": "Create a haiku about the summer.",
+        "input": "",
+        "output": "Hot summer days, \nSunshine and blue skies so bright,\nButterflies flutter by.",
+        "most_similar_instructions": {
+            "Generate a haiku using the following word:": 0.4615384615384615,
+            "Create a detailed budget for the given hypothetical trip.": 0.4,
+            "Create a survey that asks about eating and cooking habits.": 0.37499999999999994,
+            "Create a birthday planning checklist.": 0.3636363636363636,
+            "Create a monthly budget for a person in the given location.": 0.3529411764705882,
+            "Create a fun math question for children.": 0.30769230769230765,
+            "Write a knock knock joke about bananas.": 0.30769230769230765,
+            "Plan a syllabus for the the class.": 0.30769230769230765,
+            "Write a conversation based on the given facts.": 0.28571428571428575,
+            "Generate a response given the previous chat history.": 0.28571428571428575
+        },
+        "avg_similarity_score": 0.14064794470769476
+    }
+]
